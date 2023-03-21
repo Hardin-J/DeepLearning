@@ -12,3 +12,7 @@ Lab Excerice
 <p>Radial Basis Neural Network</p>
 <h3>EX-6</h3>
 <p>Long Short Term Memory (LSTM)</p>
+link for EX-7 (CNN) <br>
+<link>https://drive.google.com/drive/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD</link>
+<br><h3>EX-7 CNN</h3>
+<p>Convolutional Neural Network to predict image and image classification</p>
